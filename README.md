@@ -12,13 +12,13 @@
 
 ## Who I Am
 
-I'm a Flutter developer based in Bahawalpur, Pakistan. I build cross-platform mobile apps — Android & iOS — with a focus on clean architecture, real-world performance, and UI that doesn't feel like a template.
+I'm a Flutter developer based in Karachi, Pakistan. I build cross-platform mobile apps — Android & iOS — with a focus on clean architecture, real-world performance, and UI that doesn't feel like a template.
 
 Currently working at **Eagle Solutions** while shipping real projects on the side. I don't build things for the portfolio — I build things that solve actual problems.
 
 - 🏥 Built **Tabeeb** — a full healthcare ecosystem with dual-app architecture for patients, doctors & admins
 - 💖 Shipped **ForeverUs** — a private couple memories app on Google Play
-- 🌍 Based in Bahawalpur | Open to remote freelance work
+- 🌍 Based in Karachi | Open to remote freelance work
 - 📩 Reach me at **flutterbyahmad@gmail.com**
 
 ---
@@ -59,7 +59,7 @@ Healthcare in Pakistan runs on WhatsApp and phone calls. Tabeeb replaces that wi
 **How it was built:**
 Modular controller-based architecture with a 6-week delivery cycle — from schema design and role-based auth to the full admin verification portal and QA. The system handles complex user journeys without bloating the codebase through strict separation of concerns.
 
-`Status: Review`
+`Status: Delivered`
 
 ---
 
@@ -80,13 +80,13 @@ A private space for couples — shared memories, anniversaries, and reminders th
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Waleed-Dev114&show_icons=true&theme=tokyonight&hide_border=true&title_color=534AB7&icon_color=7F77DD&count_private=true&include_all_commits=true" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Waleed-Dev114&layout=compact&theme=tokyonight&hide_border=true&title_color=534AB7&langs_count=6" height="165"/>
+<img src="https://streak-stats.demolab.com?user=Waleed-Dev114&theme=tokyonight&hide_border=true&ring=534AB7&fire=7F77DD&currStreakLabel=534AB7&sideLabels=534AB7" height="165"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Waleed-Dev114&theme=tokyonight&hide_border=true&ring=534AB7&fire=7F77DD&currStreakLabel=534AB7&sideLabels=534AB7" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Waleed-Dev114&theme=tokyonight" width="100%"/>
+
+<img src="skills.svg" width="100%"/>
 
 </div>
 
