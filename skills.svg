@@ -6,62 +6,60 @@
     <linearGradient id="g4" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#A259FF"/><stop offset="100%" stop-color="#F24E1E"/></linearGradient>
     <linearGradient id="g5" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#00897B"/><stop offset="100%" stop-color="#27C97A"/></linearGradient>
     <linearGradient id="g6" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#C0392B"/><stop offset="100%" stop-color="#F05032"/></linearGradient>
-    <clipPath id="c1"><rect x="0" y="0" width="370" height="8" rx="4"/></clipPath>
   </defs>
 
   <rect width="495" height="230" rx="12" fill="#0D1117"/>
   <rect x="1" y="1" width="493" height="228" rx="11" fill="none" stroke="#30363d" stroke-width="1"/>
 
-  <!-- Title -->
-  <text x="247" y="28" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="13" font-weight="700" fill="#e6edf3" letter-spacing="1.5">SKILLS</text>
+  <text x="247" y="28" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="13" font-weight="700" fill="#e6edf3" letter-spacing="2">SKILLS</text>
 
-  <!-- Row helper: label x=18, bar x=105, bar-end=475, pct x=480 -->
+  <!-- BAR layout: label 18-95, pct 96-130 (right-align 128), bar 135-480 (width=345) -->
 
   <!-- Dart -->
   <text x="18" y="58" font-family="Segoe UI, sans-serif" font-size="11" fill="#8b949e">Dart</text>
-  <text x="477" y="58" text-anchor="end" font-family="Segoe UI, sans-serif" font-size="10" font-weight="600" fill="#54C5F8">95%</text>
-  <rect x="105" y="48" width="370" height="8" rx="4" fill="#21262d"/>
-  <rect x="105" y="48" width="0" height="8" rx="4" fill="url(#g1)">
-    <animate attributeName="width" from="0" to="351" dur="0.9s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <text x="128" y="58" text-anchor="end" font-family="Segoe UI, sans-serif" font-size="10" font-weight="700" fill="#54C5F8">95%</text>
+  <rect x="135" y="48" width="345" height="8" rx="4" fill="#21262d"/>
+  <rect x="135" y="48" width="0" height="8" rx="4" fill="url(#g1)">
+    <animate attributeName="width" from="0" to="327" dur="0.9s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
   </rect>
 
   <!-- Flutter -->
   <text x="18" y="90" font-family="Segoe UI, sans-serif" font-size="11" fill="#8b949e">Flutter</text>
-  <text x="477" y="90" text-anchor="end" font-family="Segoe UI, sans-serif" font-size="10" font-weight="600" fill="#54C5F8">95%</text>
-  <rect x="105" y="80" width="370" height="8" rx="4" fill="#21262d"/>
-  <rect x="105" y="80" width="0" height="8" rx="4" fill="url(#g2)">
-    <animate attributeName="width" from="0" to="351" dur="0.9s" begin="0.25s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <text x="128" y="90" text-anchor="end" font-family="Segoe UI, sans-serif" font-size="10" font-weight="700" fill="#54C5F8">95%</text>
+  <rect x="135" y="80" width="345" height="8" rx="4" fill="#21262d"/>
+  <rect x="135" y="80" width="0" height="8" rx="4" fill="url(#g2)">
+    <animate attributeName="width" from="0" to="327" dur="0.9s" begin="0.25s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
   </rect>
 
   <!-- Firebase -->
   <text x="18" y="122" font-family="Segoe UI, sans-serif" font-size="11" fill="#8b949e">Firebase</text>
-  <text x="477" y="122" text-anchor="end" font-family="Segoe UI, sans-serif" font-size="10" font-weight="600" fill="#FFCA28">85%</text>
-  <rect x="105" y="112" width="370" height="8" rx="4" fill="#21262d"/>
-  <rect x="105" y="112" width="0" height="8" rx="4" fill="url(#g3)">
-    <animate attributeName="width" from="0" to="314" dur="0.9s" begin="0.4s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <text x="128" y="122" text-anchor="end" font-family="Segoe UI, sans-serif" font-size="10" font-weight="700" fill="#FFCA28">85%</text>
+  <rect x="135" y="112" width="345" height="8" rx="4" fill="#21262d"/>
+  <rect x="135" y="112" width="0" height="8" rx="4" fill="url(#g3)">
+    <animate attributeName="width" from="0" to="293" dur="0.9s" begin="0.4s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
   </rect>
 
   <!-- Figma -->
   <text x="18" y="154" font-family="Segoe UI, sans-serif" font-size="11" fill="#8b949e">Figma / UI</text>
-  <text x="477" y="154" text-anchor="end" font-family="Segoe UI, sans-serif" font-size="10" font-weight="600" fill="#A259FF">80%</text>
-  <rect x="105" y="144" width="370" height="8" rx="4" fill="#21262d"/>
-  <rect x="105" y="144" width="0" height="8" rx="4" fill="url(#g4)">
-    <animate attributeName="width" from="0" to="296" dur="0.9s" begin="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <text x="128" y="154" text-anchor="end" font-family="Segoe UI, sans-serif" font-size="10" font-weight="700" fill="#A259FF">80%</text>
+  <rect x="135" y="144" width="345" height="8" rx="4" fill="#21262d"/>
+  <rect x="135" y="144" width="0" height="8" rx="4" fill="url(#g4)">
+    <animate attributeName="width" from="0" to="276" dur="0.9s" begin="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
   </rect>
 
   <!-- REST API -->
   <text x="18" y="186" font-family="Segoe UI, sans-serif" font-size="11" fill="#8b949e">REST API</text>
-  <text x="477" y="186" text-anchor="end" font-family="Segoe UI, sans-serif" font-size="10" font-weight="600" fill="#27C97A">80%</text>
-  <rect x="105" y="176" width="370" height="8" rx="4" fill="#21262d"/>
-  <rect x="105" y="176" width="0" height="8" rx="4" fill="url(#g5)">
-    <animate attributeName="width" from="0" to="296" dur="0.9s" begin="0.7s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <text x="128" y="186" text-anchor="end" font-family="Segoe UI, sans-serif" font-size="10" font-weight="700" fill="#27C97A">80%</text>
+  <rect x="135" y="176" width="345" height="8" rx="4" fill="#21262d"/>
+  <rect x="135" y="176" width="0" height="8" rx="4" fill="url(#g5)">
+    <animate attributeName="width" from="0" to="276" dur="0.9s" begin="0.7s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
   </rect>
 
   <!-- Git -->
   <text x="18" y="218" font-family="Segoe UI, sans-serif" font-size="11" fill="#8b949e">Git</text>
-  <text x="477" y="218" text-anchor="end" font-family="Segoe UI, sans-serif" font-size="10" font-weight="600" fill="#F05032">75%</text>
-  <rect x="105" y="208" width="370" height="8" rx="4" fill="#21262d"/>
-  <rect x="105" y="208" width="0" height="8" rx="4" fill="url(#g6)">
-    <animate attributeName="width" from="0" to="277" dur="0.9s" begin="0.85s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  <text x="128" y="218" text-anchor="end" font-family="Segoe UI, sans-serif" font-size="10" font-weight="700" fill="#F05032">75%</text>
+  <rect x="135" y="208" width="345" height="8" rx="4" fill="#21262d"/>
+  <rect x="135" y="208" width="0" height="8" rx="4" fill="url(#g6)">
+    <animate attributeName="width" from="0" to="258" dur="0.9s" begin="0.85s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
   </rect>
 </svg>
