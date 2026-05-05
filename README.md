@@ -12,13 +12,13 @@
 
 ## Who I Am
 
-I'm a Flutter developer based in Karachi, Pakistan. I build cross-platform mobile apps — Android & iOS — with a focus on clean architecture, real-world performance, and UI that doesn't feel like a template.
+I'm a Flutter developer based in Bahawalpur, Pakistan. I build cross-platform mobile apps — Android & iOS — with a focus on clean architecture, real-world performance, and UI that doesn't feel like a template.
 
 Currently working at **Eagle Solutions** while shipping real projects on the side. I don't build things for the portfolio — I build things that solve actual problems.
 
 - 🏥 Built **Tabeeb** — a full healthcare ecosystem with dual-app architecture for patients, doctors & admins
 - 💖 Shipped **ForeverUs** — a private couple memories app on Google Play
-- 🌍 Based in Karachi | Open to remote freelance work
+- 🌍 Based in Bahawalpur | Open to remote freelance work
 - 📩 Reach me at **flutterbyahmad@gmail.com**
 
 ---
@@ -38,6 +38,14 @@ Currently working at **Eagle Solutions** while shipping real projects on the sid
 ![REST API](https://img.shields.io/badge/REST%20API-000000?style=flat-square&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-27C97A?style=flat-square&logoColor=white)
 
+</div>
+
+---
+
+## Skills
+
+<div align="center">
+<img src="skills.svg" width="495"/>
 </div>
 
 ---
@@ -84,18 +92,8 @@ A private space for couples — shared memories, anniversaries, and reminders th
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Waleed-Dev114&theme=tokyonight" width="100%"/>
-
-<img src="skills.svg" width="100%"/>
-
-</div>
-
----
-
-## Activity Graph
-
-<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Waleed-Dev114&theme=tokyo-night&area=true&hide_border=true&color=7F77DD&line=534AB7&point=EEEDFE" width="100%"/>
+
 </div>
 
 ---
@@ -112,19 +110,33 @@ A private space for couples — shared memories, anniversaries, and reminders th
 
 ---
 
-## Connect
+## Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flutter-with-ahmad/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:flutterbyahmad@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/WaleedAhmad114/)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/waleeda391)
+<a href="https://www.linkedin.com/in/flutter-with-ahmad/">
+  <img src="https://img.shields.io/badge/──%20LinkedIn%20──-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:flutterbyahmad@gmail.com">
+  <img src="https://img.shields.io/badge/──%20Gmail%20──-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.upwork.com/freelancers/waleeda391">
+  <img src="https://img.shields.io/badge/──%20Upwork%20──-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+</a>
+<a href="https://www.facebook.com/WaleedAhmad114/">
+  <img src="https://img.shields.io/badge/──%20Facebook%20──-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+> 💬 Got an app idea? I'll tell you in the first call if it's buildable — and how long it'll take.
 
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=100&section=footer" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=130&section=footer&text=Let's%20build%20something%20worth%20downloading.&fontSize=17&fontColor=ffffff&fontAlignY=62" width="100%"/>
+
 </div>
