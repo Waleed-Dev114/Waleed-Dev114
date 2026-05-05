@@ -1,0 +1,89 @@
+<svg width="800" height="380" viewBox="0 0 800 380" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="dart" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0175C2"/>
+      <stop offset="100%" style="stop-color:#02569B"/>
+    </linearGradient>
+    <linearGradient id="flutter" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#54C5F8"/>
+      <stop offset="100%" style="stop-color:#01579B"/>
+    </linearGradient>
+    <linearGradient id="firebase" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FFA000"/>
+      <stop offset="100%" style="stop-color:#F57C00"/>
+    </linearGradient>
+    <linearGradient id="figma" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#F24E1E"/>
+      <stop offset="100%" style="stop-color:#A259FF"/>
+    </linearGradient>
+    <linearGradient id="api" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#27C97A"/>
+      <stop offset="100%" style="stop-color:#00897B"/>
+    </linearGradient>
+    <linearGradient id="git" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#F05032"/>
+      <stop offset="100%" style="stop-color:#C0392B"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="380" rx="16" fill="#1A1A2E"/>
+
+  <!-- Title -->
+  <text x="400" y="38" text-anchor="middle" font-family="Poppins, Segoe UI, sans-serif" font-size="18" font-weight="700" fill="#EEEDFE" letter-spacing="2">⚡ SKILL LEVELS</text>
+  <line x1="60" y1="52" x2="740" y2="52" stroke="#534AB7" stroke-width="1" opacity="0.5"/>
+
+  <!-- === ROW 1: Dart === -->
+  <text x="70" y="92" font-family="Poppins, Segoe UI, sans-serif" font-size="13" font-weight="600" fill="#EEEDFE">Dart</text>
+  <text x="730" y="92" text-anchor="end" font-family="Poppins, Segoe UI, sans-serif" font-size="13" font-weight="700" fill="#0175C2">95%</text>
+  <!-- Track -->
+  <rect x="70" y="100" width="660" height="14" rx="7" fill="#2A2A3E"/>
+  <!-- Bar -->
+  <rect x="70" y="100" width="0" height="14" rx="7" fill="url(#dart)" filter="url(#glow)">
+    <animate attributeName="width" from="0" to="627" dur="1.2s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+
+  <!-- === ROW 2: Flutter === -->
+  <text x="70" y="142" font-family="Poppins, Segoe UI, sans-serif" font-size="13" font-weight="600" fill="#EEEDFE">Flutter</text>
+  <text x="730" y="142" text-anchor="end" font-family="Poppins, Segoe UI, sans-serif" font-size="13" font-weight="700" fill="#54C5F8">95%</text>
+  <rect x="70" y="150" width="660" height="14" rx="7" fill="#2A2A3E"/>
+  <rect x="70" y="150" width="0" height="14" rx="7" fill="url(#flutter)" filter="url(#glow)">
+    <animate attributeName="width" from="0" to="627" dur="1.2s" begin="0.4s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+
+  <!-- === ROW 3: Firebase === -->
+  <text x="70" y="192" font-family="Poppins, Segoe UI, sans-serif" font-size="13" font-weight="600" fill="#EEEDFE">Firebase</text>
+  <text x="730" y="192" text-anchor="end" font-family="Poppins, Segoe UI, sans-serif" font-size="13" font-weight="700" fill="#FFA000">85%</text>
+  <rect x="70" y="200" width="660" height="14" rx="7" fill="#2A2A3E"/>
+  <rect x="70" y="200" width="0" height="14" rx="7" fill="url(#firebase)" filter="url(#glow)">
+    <animate attributeName="width" from="0" to="561" dur="1.2s" begin="0.6s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+
+  <!-- === ROW 4: Figma === -->
+  <text x="70" y="242" font-family="Poppins, Segoe UI, sans-serif" font-size="13" font-weight="600" fill="#EEEDFE">Figma / UI Design</text>
+  <text x="730" y="242" text-anchor="end" font-family="Poppins, Segoe UI, sans-serif" font-size="13" font-weight="700" fill="#F24E1E">80%</text>
+  <rect x="70" y="250" width="660" height="14" rx="7" fill="#2A2A3E"/>
+  <rect x="70" y="250" width="0" height="14" rx="7" fill="url(#figma)" filter="url(#glow)">
+    <animate attributeName="width" from="0" to="528" dur="1.2s" begin="0.8s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+
+  <!-- === ROW 5: REST API === -->
+  <text x="70" y="292" font-family="Poppins, Segoe UI, sans-serif" font-size="13" font-weight="600" fill="#EEEDFE">REST API Integration</text>
+  <text x="730" y="292" text-anchor="end" font-family="Poppins, Segoe UI, sans-serif" font-size="13" font-weight="700" fill="#27C97A">80%</text>
+  <rect x="70" y="300" width="660" height="14" rx="7" fill="#2A2A3E"/>
+  <rect x="70" y="300" width="0" height="14" rx="7" fill="url(#api)" filter="url(#glow)">
+    <animate attributeName="width" from="0" to="528" dur="1.2s" begin="1.0s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+
+  <!-- === ROW 6: Git === -->
+  <text x="70" y="342" font-family="Poppins, Segoe UI, sans-serif" font-size="13" font-weight="600" fill="#EEEDFE">Git &amp; Version Control</text>
+  <text x="730" y="342" text-anchor="end" font-family="Poppins, Segoe UI, sans-serif" font-size="13" font-weight="700" fill="#F05032">75%</text>
+  <rect x="70" y="350" width="660" height="14" rx="7" fill="#2A2A3E"/>
+  <rect x="70" y="350" width="0" height="14" rx="7" fill="url(#git)" filter="url(#glow)">
+    <animate attributeName="width" from="0" to="495" dur="1.2s" begin="1.2s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+</svg>
