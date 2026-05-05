@@ -114,7 +114,7 @@ A private space for couples — shared memories, anniversaries, and reminders th
 
 <div align="center">
 
-<a href="[https://www.linkedin.com/in/flutter-with-ahmad/](https://www.linkedin.com/in/flutter-with-ahmad/)">
+<a href="https://www.linkedin.com/in/flutter-with-ahmad/">
   <img src="https://img.shields.io/badge/──%20LinkedIn%20──-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:flutterbyahmad@gmail.com">
