@@ -67,7 +67,7 @@ Healthcare in Pakistan runs on WhatsApp and phone calls. Tabeeb replaces that wi
 **How it was built:**
 Modular controller-based architecture with a 6-week delivery cycle — from schema design and role-based auth to the full admin verification portal and QA. The system handles complex user journeys without bloating the codebase through strict separation of concerns.
 
-`Status: Delivered`
+`Status: Review`
 
 ---
 
